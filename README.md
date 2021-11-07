@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @reubenthesmarthuman
+- 👀 I’m interested in networking, ddos protection, socket programming, python, web development
+- 🌱 I’m currently learning css, javascript, html
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me discord: reuben#2568
